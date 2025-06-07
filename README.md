@@ -52,7 +52,7 @@ To build a machine learning model using a **Recurrent Neural Network (RNN)** wit
 
 > ✅ *This project demonstrates your ability to apply deep learning to a practical problem — predicting stock prices — which involves handling time-series data, engineering sequences, and visualizing results.*
 
-> ✅ *You also learned the importance of preprocessing, model regularization, and how deep networks can capture temporal patterns.*
+> ✅ *Also learned the importance of preprocessing, model regularization, and how deep networks can capture temporal patterns.*
 
 > ✅ *While predicting stock prices with perfect accuracy is nearly impossible due to market volatility, this exercise shows you can build models that detect useful patterns and trends.*
 
